@@ -39,7 +39,7 @@ header{
 
 #subtitulo{
     font-family: var(--font1);
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.0em;
     text-align: center;
     padding-bottom: 30px; 
@@ -51,6 +51,7 @@ nav{
     font-size: 14px;
     color: white;
     padding-bottom: 15px;
+    padding-left: 10px;
 }
 
 a{
